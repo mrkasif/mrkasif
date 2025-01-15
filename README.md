@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrkasif
 - 👀 I’m interested in webdevelopement and app,game developement
 - 🌱 I’m currently working on it projects
-- 💞️ I’m looking to collaborate with any projects about web developement and app,game developement
+- 💞️ I’m looking to collaborate with any projects about web developement and AI
 - 📫 How to reach me through insta and email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ... im trader also
