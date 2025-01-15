@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrkasif
-- 👀 I’m interested in webdevelopement and app,game developement
-- 🌱 I’m currently working on it projects
+- 👀 I’m interested in webdevelopement and app,game developement and AI
+- 🌱 I’m currently working on IT projects
 - 💞️ I’m looking to collaborate with any projects about web developement and AI
 - 📫 How to reach me through insta and email
 - 😄 Pronouns: he/him
