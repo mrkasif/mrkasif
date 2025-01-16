@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kashif+Sayyad;Welcome+to+my+GitHub+Profile!&center=true&width=380&height=50">
 </div>
+
 - 👋 Hi, I’m Kashif sayyad
 - 👀 I’m interested in webdevelopement and app,game developement and AI
 - 🌱 I’m currently working on IT projects
