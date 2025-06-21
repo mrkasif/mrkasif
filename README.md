@@ -9,7 +9,9 @@
 - 📫 reach me through kashifsayyad21@gmail.com 
 - 😄 Pronouns: he/him
 ## 🛠️ Skills
-<h3 align="left">Languages & Tools</h3>
+<!-- Animated Machine Languages heading -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&width=435&lines=💻+Machine+Languages" alt="Machine Languages animated typing" />
+
 <p align="left">
   <!-- C -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -36,6 +38,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://linuxmint.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 <!---
