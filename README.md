@@ -9,7 +9,6 @@
 - 📫 reach me through kashifsayyad21@gmail.com 
 - 😄 Pronouns: he/him
 ## 🛠️ Skills
-la.org/en-US/docs/Web/CSS" target="_blank">
  <!-- 💻 Machine Languages Heading (Blue Floating Style) -->
 <h2 align="left" style="color:#00BFFF; text-shadow: 1px 1px 2px #aaa;">
   💻 Machine Languages
