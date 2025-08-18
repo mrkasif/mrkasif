@@ -38,10 +38,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 
-  <!-- CPP -->
-  <a href="https://en.wikipedia.org/wiki/C++" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+<!-- C++ -->
+<a href="https://cplusplus.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon```ons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+
+<!-- Android -->
+<a href="https://developer.android.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+
 </p>
 
 <!-- 🖥️ Operating Systems Heading (Green Floating Style) -->
