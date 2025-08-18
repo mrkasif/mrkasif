@@ -38,10 +38,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 
-<!-- C++ -->
-<a href="https://cplusplus.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon```ons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
 
 <!-- Android -->
 <a href="https://developer.android.com/" target="_blank">
