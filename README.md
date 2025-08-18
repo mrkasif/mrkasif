@@ -9,9 +9,7 @@
 - 📫 reach me through kashifsayyad21@gmail.com 
 - 😄 Pronouns: he/him
 ## 🛠️ Skills
- <!-- 💻 Machine Languages Heading (Blue Floating Style) -->
 <h2 align="left" style="color:#00BFFF; text-shadow: 1px 1px 2px #aaa;">
-  💻 Machine Languages
 </h2>
 
 <p align="left">
@@ -38,6 +36,11 @@
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <!-- CPP -->
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
 
