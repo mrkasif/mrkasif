@@ -55,6 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkasif&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajofearth&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
 ---
 
 ## 📫 Let's Connect!
